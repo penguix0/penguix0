@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @penguix0
-- 👀 I’m interested in projects hooking into currently existing ecosystems
+- 👀 I’m interested in electrical engineering
 - 🌱 I’m currently learning how to use Python
 - 📫 You can reach me on discord: ThetwoBrothersC#2844
