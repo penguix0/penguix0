@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @penguix0
-- 👀 I’m interested in electrical engineering
-- 🌱 I’m currently learning how to use Python
+- 👀 I’m improving my electrical engineering skills
+- 🌱 I’m currently learning how to use docker
 - 📫 You can reach me on discord: ThetwoBrothersC#2844
